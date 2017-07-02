@@ -1,4 +1,5 @@
 # Config file for uncrustify for cpp indentation
+# Find default config at http://uncrustify.sourceforge.net/default.cfg
 
 indent_align_string=true
 indent_braces=false
