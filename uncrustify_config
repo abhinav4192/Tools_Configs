@@ -250,7 +250,7 @@ nl_union_brace=remove
 nl_if_brace=remove
 nl_if_brace=remove
 nl_elseif_brace=remove
-nl_else_braceremove
+nl_else_brace=remove
 nl_brace_else=remove
 nl_finally_brace=remove
 nl_try_brace=remove
