@@ -1,0 +1,1 @@
+export PS1="%{$fg[yellow]%}%D{%L:%M:%S}%{$fg[$NCOLOR]%} [%B%n%b%{$reset_color%}:%{$fg[red]%}%30<...<%~%<<%{$reset_color%}]$ "
